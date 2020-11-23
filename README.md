@@ -19,4 +19,5 @@ O Script irá criar 3 pastas conforme abaixo:
 2. Pasta Swamp - recebe o arquivo convertido de html para csv;
 3. Pasta Lake - recebe o arquivo final tratado.
 
+Você pode rodar os 3 jogos (separadamente) sem precisar deletar as pastas, pois os mesmos criam subpastas dentro das matrizes raw, swamp e lake.
 
