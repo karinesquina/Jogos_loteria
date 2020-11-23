@@ -11,8 +11,8 @@
 
 1. Faça o download do arquivo 'main.py';
 2. Abra o cmd (em caso de windows) ou o prompt de comando do seu O.S.;
-3. Acesse a pasta onde está salvo o arquivo 'main.py', utilizando os comandos pertinentes de seu O.S.;
-3. Digite: python main.py parametro que deseja (megasena, quina, lotofacil). Ex.: python main.py megasena.
+3. Acesse a pasta onde está salvo o arquivo 'main.py', utilizando os comandos pertinentes de seu O.S., **Ex: cd .../nome_pasta;
+3. Digite: python main.py parametro que deseja (megasena, quina, lotofacil). **Ex.: python main.py megasena.
 
 **Requisito para rodar o script**
 
