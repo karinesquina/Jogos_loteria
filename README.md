@@ -5,7 +5,7 @@ O script tem como objetivo:
 3. Descompactar os arquivos para dentro de uma pasta com a data do dia da extração;
 4. Tranformar o arquivo HTML para CSV, separado por ";";
 5. Tratar os campos "&nbsp" da base de dados;
-6. Salvar o arquivo tratado para futura análise dos especialistas;
+6. Salvar o arquivo tratado para futura análise dos especialistas.
 
 #Passo a passo para rodar o script
 
