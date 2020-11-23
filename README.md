@@ -15,7 +15,7 @@ Python 3.9.0
 
 O Script irá criar 3 pastas conforme abaixo:
 
-1. Pasta Raw - recebe os arquivos extraidos da plataforma no formato 'html';
+1. Pasta Raw - recebe os arquivos extraidos da plataforma no formato 'html', dentro de uma pasta com a data do dia da extração;
 2. Pasta Swamp - recebe o arquivo convertido de html para csv;
 3. Pasta Lake - recebe o arquivo final tratado.
 
