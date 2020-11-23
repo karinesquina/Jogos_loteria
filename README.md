@@ -1,6 +1,6 @@
 **Objetivo do Script**
 
-1. Conectar-se com a basde de dados de resultados dos jogos de "Mega Sena", "Quina" e "Loto Fácil";
+1. Conectar-se com a base de de dados de resultados dos jogos de "Mega Sena", "Quina" e "Loto Fácil";
 2. Fazer o download do arquivo zip disponível no site oficial da Caixa Econômica Federal;
 3. Descompactar os arquivos para dentro de uma pasta com a data do dia da extração;
 4. Tranformar o arquivo HTML para CSV, separado por ";";
