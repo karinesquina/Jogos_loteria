@@ -1,4 +1,11 @@
-O script tem como objetivo fazer o download dos resultados de 3 tipos de jogos da loteria disponíveis no site da caixa, sendo eles: Mega Sena, Loto Fácil e Quina.
+O script tem como objetivo:
+
+1. Conectar-se com a basde de dados de resultados dos jogos de "Mega Sena", "Quina" e "Loto Fácil";
+2. Fazer o download do arquivo zip disponível no site oficial da Caixa Econômica Federal;
+3. Descompactar os arquivos para dentro de uma pasta com a data do dia da extração;
+4. Tranformar o arquivo HTML para CSV, separado por ";";
+5. Tratar os campos "&nbsp" da base de dados;
+6. Salvar o arquivo tratado para futura análise dos especialistas;
 
 #Passo a passo para rodar o script
 
